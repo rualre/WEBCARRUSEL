@@ -1,0 +1,131 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-students",
+      "description": "Happy students and teachers in a classroom setting",
+      "imageUrl": "/images/image_2.png",
+      "imageHint": "students classroom"
+    },
+    {
+      "id": "team-director",
+      "description": "Portrait of the school director",
+      "imageUrl": "/images/logo_dark.png",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-teacher-1",
+      "description": "Portrait of a teacher",
+      "imageUrl": "/images/logo_dark.png",
+      "imageHint": "teacher portrait"
+    },
+    {
+      "id": "team-teacher-2",
+      "description": "Portrait of another teacher",
+      "imageUrl": "/images/logo_dark.png",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "team-teacher-3",
+      "description": "Portrait of a third teacher",
+      "imageUrl": "/images/logo_dark.png",
+      "imageHint": "woman teacher"
+    },
+    {
+      "id": "preschool-kids",
+      "description": "Preschool children playing and learning",
+      "imageUrl": "/images/imagen_preescolar.jpeg",
+      "imageHint": "children playing"
+    },
+    {
+      "id": "elementary-kids",
+      "description": "Elementary school students in a library",
+      "imageUrl": "/images/imagen_primaria.jpeg",
+      "imageHint": "students library"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Students in a science fair",
+      "imageUrl": "/images/logo_light.png",
+      "imageHint": "science fair"
+    },
+    {
+      "id": "gallery-2",
+      "description": "School sports day event",
+      "imageUrl": "/images/image_emprendimiento.jpg",
+      "imageHint": "school sports"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Students participating in a religious ceremony",
+      "imageUrl": "/images/image_1.png",
+      "imageHint": "religious ceremony"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Art class with students painting",
+      "imageUrl": "/images/image_3.jpeg",
+      "imageHint": "art class"
+    },
+    {
+      "id": "gallery-5",
+      "description": "School band performing",
+      "imageUrl": "/images/image_4.jpeg",
+      "imageHint": "school band"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Students on a field trip",
+      "imageUrl": "/images/image_5.jpeg",
+      "imageHint": "field trip"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Environmental education project",
+      "imageUrl": "/images/image_emprendimiento.jpg",
+      "imageHint": "planting trees"
+    },
+    {
+      "id": "gallery-8",
+      "description": "Christmas celebration at school",
+      "imageUrl": "/images/image_7.jpeg",
+      "imageHint": "christmas celebration"
+    },
+    {
+      "id": "news-1",
+      "description": "Announcement of the new school year",
+      "imageUrl": "/images/image_8.jpeg",
+      "imageHint": "school building"
+    },
+    {
+      "id": "news-2",
+      "description": "Recap of the annual cultural festival",
+      "imageUrl": "/images/image_9.jpeg",
+      "imageHint": "cultural festival"
+    },
+    {
+      "id": "news-3",
+      "description": "Information about upcoming parent-teacher meetings",
+      "imageUrl": "https://images.unsplash.com/photo-1503423571797-2d2bb372094a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtZWV0aW5nJTIwcm9vbXxlbnwwfHx8fDE3NjE4ODE0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meeting room"
+    },
+ {
+      "id": "news-4",
+      "description": "Information about upcoming parent-teacher meetings",
+      "imageUrl": "/images/image_emprendimiento.jpg",
+      "imageHint": "PROYECTO"
+    },
+
+    {
+      "id": "map-location",
+      "description": "Map showing the location of Centro Educativo Carrusel",
+      "imageUrl": "https://images.unsplash.com/photo-1552853160-8ec65527b252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYXAlMjBsb2NhdGlvbnxlbnwwfHx8fDE3NjE5NjQ5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map location"
+    },
+    {
+      "id": "about-us-history",
+      "description": "An old photo of the school building or first students",
+      "imageUrl": "https://images.unsplash.com/photo-1680634658361-1e3a483d2138?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwc2Nob29sfGVufDB8fHx8MTc2MTk3MDg4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage school"
+    }
+  ]
+}
